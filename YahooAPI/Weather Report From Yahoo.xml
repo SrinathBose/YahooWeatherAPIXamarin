@@ -1,0 +1,149 @@
+﻿{
+  "query": {
+    "count": 1,
+    "created": "2017-02-22T07:19:31Z",
+    "lang": "en-US",
+    "results": {
+      "channel": {
+        "units": {
+          "distance": "mi",
+          "pressure": "in",
+          "speed": "mph",
+          "temperature": "F"
+        },
+        "title": "Yahoo! Weather - Indiana, US",
+        "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2347573/",
+        "description": "Yahoo! Weather for Indiana, US",
+        "language": "en-us",
+        "lastBuildDate": "Wed, 22 Feb 2017 07:19 AM UTC",
+        "ttl": "60",
+        "location": {
+          "city": "Indiana",
+          "country": "United States",
+          "region": " US"
+        },
+        "wind": {
+          "chill": "55",
+          "direction": "200",
+          "speed": "7"
+        },
+        "atmosphere": {
+          "humidity": "91",
+          "pressure": "982.0",
+          "rising": "0",
+          "visibility": "15.7"
+        },
+        "astronomy": {
+          "sunrise": "7:29 am",
+          "sunset": "6:30 pm"
+        },
+        "image": {
+          "title": "Yahoo! Weather",
+          "width": "142",
+          "height": "18",
+          "link": "http://weather.yahoo.com",
+          "url": "http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"
+        },
+        "item": {
+          "title": "Conditions for Indiana, US at 06:00 AM UTC",
+          "lat": "39.766178",
+          "long": "-86.441048",
+          "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2347573/",
+          "pubDate": "Wed, 22 Feb 2017 06:00 AM UTC",
+          "condition": {
+            "code": "26",
+            "date": "Wed, 22 Feb 2017 06:00 AM UTC",
+            "temp": "55",
+            "text": "Cloudy"
+          },
+          "forecast": [
+            {
+              "code": "28",
+              "date": "22 Feb 2017",
+              "day": "Wed",
+              "high": "67",
+              "low": "54",
+              "text": "Mostly Cloudy"
+            },
+            {
+              "code": "28",
+              "date": "23 Feb 2017",
+              "day": "Thu",
+              "high": "69",
+              "low": "55",
+              "text": "Mostly Cloudy"
+            },
+            {
+              "code": "11",
+              "date": "24 Feb 2017",
+              "day": "Fri",
+              "high": "68",
+              "low": "57",
+              "text": "Showers"
+            },
+            {
+              "code": "12",
+              "date": "25 Feb 2017",
+              "day": "Sat",
+              "high": "54",
+              "low": "32",
+              "text": "Rain"
+            },
+            {
+              "code": "30",
+              "date": "26 Feb 2017",
+              "day": "Sun",
+              "high": "42",
+              "low": "25",
+              "text": "Partly Cloudy"
+            },
+            {
+              "code": "28",
+              "date": "27 Feb 2017",
+              "day": "Mon",
+              "high": "50",
+              "low": "32",
+              "text": "Mostly Cloudy"
+            },
+            {
+              "code": "47",
+              "date": "28 Feb 2017",
+              "day": "Tue",
+              "high": "64",
+              "low": "46",
+              "text": "Scattered Thunderstorms"
+            },
+            {
+              "code": "47",
+              "date": "01 Mar 2017",
+              "day": "Wed",
+              "high": "59",
+              "low": "41",
+              "text": "Scattered Thunderstorms"
+            },
+            {
+              "code": "30",
+              "date": "02 Mar 2017",
+              "day": "Thu",
+              "high": "47",
+              "low": "34",
+              "text": "Partly Cloudy"
+            },
+            {
+              "code": "30",
+              "date": "03 Mar 2017",
+              "day": "Fri",
+              "high": "55",
+              "low": "32",
+              "text": "Partly Cloudy"
+            }
+          ],
+          "description": "<![CDATA[<img src=\"http://l.yimg.com/a/i/us/we/52/26.gif\"/>\n<BR />\n<b>Current Conditions:</b>\n<BR />Cloudy\n<BR />\n<BR />\n<b>Forecast:</b>\n<BR /> Wed - Mostly Cloudy. High: 67Low: 54\n<BR /> Thu - Mostly Cloudy. High: 69Low: 55\n<BR /> Fri - Showers. High: 68Low: 57\n<BR /> Sat - Rain. High: 54Low: 32\n<BR /> Sun - Partly Cloudy. High: 42Low: 25\n<BR />\n<BR />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2347573/\">Full Forecast at Yahoo! Weather</a>\n<BR />\n<BR />\n(provided by <a href=\"http://www.weather.com\" >The Weather Channel</a>)\n<BR />\n]]>",
+          "guid": {
+            "isPermaLink": "false"
+          }
+        }
+      }
+    }
+  }
+}
